@@ -1,0 +1,21 @@
+﻿Build started 7/21/2016 5:14:08 PM.
+     1>Project "C:\Users\BInaYa\Documents\Visual Studio 2013\Projects\FolderLock\FolderLock\FolderLock.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Login.cpp Main.cpp Register.cpp
+         Login.cpp
+         Main.cpp
+         Register.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\BInaYa\Documents\Visual Studio 2013\Projects\FolderLock\Release\FolderLock.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\FolderLock.About.resources /ASSEMBLYRESOURCE:Release\FolderLock.Login.resources /ASSEMBLYRESOURCE:Release\FolderLock.Main.resources /ASSEMBLYRESOURCE:Release\FolderLock.Settings.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\BInaYa\Documents\Visual Studio 2013\Projects\FolderLock\Release\FolderLock.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\About.obj
+         Release\Login.obj
+         Release\Main.obj
+         Release\Register.obj
+         Release\Settings.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         FolderLock.vcxproj -> C:\Users\BInaYa\Documents\Visual Studio 2013\Projects\FolderLock\Release\FolderLock.exe
+     1>Done Building Project "C:\Users\BInaYa\Documents\Visual Studio 2013\Projects\FolderLock\FolderLock\FolderLock.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.29
